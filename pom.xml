@@ -17,8 +17,8 @@
 		<java.version>11</java.version>
 		<spring-cloud.version>2021.0.7</spring-cloud.version>
 		<sonar.exclusions> **/com/codedecode/order/service/SequenceGenerator.java,
-			**/com/codedecode/order/repo/** , **/com/codedecode/order/dto/** , **/com/codedecode/order/mapper/** ,
-			**/com/codedecode/order/entity/** , **/com/codedecode/order/OrderMsApplication.java
+			**/com/sesame/order/repo/** , **/com/sesame/order/dto/** , **/com/sesame/order/mapper/** ,
+			**/com/sesame/order/entity/** , **/com/sesame/order/OrderMsApplication.java
 		</sonar.exclusions>
 
 	</properties>
